@@ -7,5 +7,7 @@ And here in this `Readme.md` file, put the screenshot of important results (logs
 
 ## Your screenshots in order:
 ![image](https://github.com/user-attachments/assets/16417016-04c7-452b-a50a-aa661887cd57)
+![image](https://github.com/user-attachments/assets/afa370f5-55c6-4500-919a-7a240a4af758)
+
 
 
